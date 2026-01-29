@@ -5,10 +5,7 @@ import ServicesSection from "./components/ServicesSection";
 import Link from "next/link";
 import  FeaturedProjects from "./components/FeaturedProjects";
 import CommunitySection from "./components/CommunitySection";
-import type { Metadata } from "next";
-export const metadata: Metadata = {
-  title: "Everelec Energy Solutions",
-};
+
 
 
 
