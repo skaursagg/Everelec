@@ -65,11 +65,7 @@ export default function ResidentialProjectsPage() {
       description: "Electrical panel upgrade for increased capacity and safety.",
       image: "/residential 13.jpeg",
     },
-    {
-      title: "Stair Light Installation",
-      description: "Stair light installation with energy-efficient LED fixtures.",
-      video: "/StairLight.mp4",
-    },
+
   ];
 
   return (
