@@ -45,7 +45,7 @@ export default function FeaturedProjects() {
           </Link>
 
           {/* EV */}
-          <Link href="/projects/ev charger" className="group">
+          <Link href="/projects/ev-charger" className="group">
             <div className="relative cursor-pointer bg-white rounded-xl shadow overflow-hidden">
               <img src="/ev charger.png" className="w-full h-65  object-cover" />
 
