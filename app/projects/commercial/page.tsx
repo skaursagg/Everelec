@@ -40,11 +40,7 @@ export default function CommercialProjectsPage() {
       description: "Outdoor commercial lighting for parking and walkways.",
       image: "/commercial8.jpeg",
     },
-    {
-      title: "Data & Network Cabling",
-      description: "Structured cabling for office networking systems.",
-      image: "/commercial9.jpeg",
-    },
+    
   ];
 
   return (

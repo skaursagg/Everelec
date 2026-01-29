@@ -7,8 +7,6 @@ import  FeaturedProjects from "./components/FeaturedProjects";
 import CommunitySection from "./components/CommunitySection";
 
 
-
-
 export default function Home() {
   return (
     <main className="min-h-screen">
