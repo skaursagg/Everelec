@@ -21,7 +21,7 @@ export default function FeaturedProjects() {
           {/* Residential */}
           <Link href="./projects/residential" className="group">
             <div className="relative cursor-pointer bg-white rounded-xl shadow overflow-hidden">
-              <img src="residential cover.png" className="w-full h-65 object-cover" />
+              <img src="residential cover2.jpg" className="w-full h-65 object-cover" />
 
               <div className="absolute inset-0 bg-black/70 flex flex-col justify-center items-center text-white
                 translate-y-full group-hover:translate-y-0 transition-transform duration-300">
@@ -34,7 +34,7 @@ export default function FeaturedProjects() {
           {/* Commercial */}
           <Link href="/projects/commercial" className="group">
             <div className="relative cursor-pointer bg-white rounded-xl shadow overflow-hidden">
-              <img src="/commercial cover.png" className="w-full h-65 object-cover" />
+              <img src="/commercial cover1.jpg" className="w-full h-65 object-cover" />
 
               <div className="absolute inset-0 bg-black/70 flex flex-col justify-center items-center text-white
                 translate-y-full group-hover:translate-y-0 transition-transform duration-300">
@@ -47,7 +47,7 @@ export default function FeaturedProjects() {
           {/* EV */}
           <Link href="/projects/ev-charger" className="group">
             <div className="relative cursor-pointer bg-white rounded-xl shadow overflow-hidden">
-              <img src="/ev charger.png" className="w-full h-65  object-cover" />
+              <img src="/ev cover.jpg" className="w-full h-65  object-cover" />
 
               <div className="absolute inset-0 bg-black/70 flex flex-col justify-center items-center text-white
                 translate-y-full group-hover:translate-y-0 transition-transform duration-300">

@@ -18,10 +18,10 @@ export default function Navbar() {
         {/* DESKTOP MENU */}
         <div className="space-x-6 hidden md:flex">
           <span className="text-yellow-500 font-semibold"> 24x7 Service</span>
-          <Link href="/" className="hover:text-yellow-500">Home</Link>
-          <Link href="/about" className="hover:text-yellow-500">About</Link>
-          <Link href="/services" className="hover:text-yellow-500">Services</Link>
-          <Link href="/contact" className="hover:text-yellow-500">Contact</Link>
+          <Link href="/" className="hover:text-yellow-500 text-colour-dark-gray">Home</Link>
+          <Link href="/about" className="hover:text-yellow-500 text-colour-dark-gray">About</Link>
+          <Link href="/services" className="hover:text-yellow-500 text-colour-dark-gray">Services</Link>
+          <Link href="/contact" className="hover:text-yellow-500 text-colour-dark-gray">Contact</Link>
         </div>
 
         {/* HAMBURGER BUTTON */}
@@ -35,7 +35,7 @@ export default function Navbar() {
 
       {/* MOBILE MENU */}
       {open && (
-        <div className="md:hidden bg-white shadow-lg px-6 py-4 space-y-4">
+        <div className="md:hidden bg-white shadow-lg px-6 py-4 space-y-4 text-colour-dark-gray">
           <Link href="/" onClick={() => setOpen(false)} className="block">
             Home
           </Link>

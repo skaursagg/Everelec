@@ -15,6 +15,16 @@ export default function EVChargerProjectsPage() {
       description: "Set up public EV chargers with fast-charging capabilities.",
       image: "/ev charger3.png",
     },
+    {
+      title: "Residential Charging Station",
+      description: "Set up residential EV chargers with fast-charging capabilities.",
+      image: "/ev charger4.png",
+    },
+    {
+      title: "Residential Charging Station",
+      description: "Set up residential EV chargers with fast-charging capabilities.",
+      image: "/ev charger5.jpg",
+    },
     
   ];
 
